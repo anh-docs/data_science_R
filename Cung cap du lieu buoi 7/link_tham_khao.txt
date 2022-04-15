@@ -1,0 +1,5 @@
+chinh ty le plot
+options(repr.plot.width =12, repr.plot.height = 8)
+
+https://www.rdocumentation.org/packages/stats/versions/3.6.2/topics/HoltWinters
+https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/log
